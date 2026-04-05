@@ -1,0 +1,30 @@
+body {
+    background-color: #f2f2f2;
+    color: #222;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form input,
+form textarea,
+form button {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
